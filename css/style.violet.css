@@ -637,7 +637,7 @@ CONTACT
 
 */
 .contact {
-  background: #fff;
+  background: #cccccc;
 }
 .contact form {
   margin-top: 40px;
@@ -648,93 +648,6 @@ CONTACT
 }
 /*
 
-=====================
-CONTACT - WORDPRESS
-=====================
-
-*/
-div.wpcf7 div.wpcf7-response-output {
-  padding: 15px;
-  margin-bottom: 22px;
-  border: 1px solid transparent;
-  border-radius: 0;
-}
-div.wpcf7 div.wpcf7-response-output > p,
-div.wpcf7 div.wpcf7-response-output > ul {
-  margin-bottom: 0;
-}
-div.wpcf7 div.wpcf7-response-output > p + p {
-  margin-top: 5px;
-}
-div.wpcf7 div.wpcf7-mail-sent-ok {
-  background-color: #dff0d8;
-  border-color: #d6e9c6;
-  color: #3c763d;
-}
-div.wpcf7 div.wpcf7-mail-sent-ok hr {
-  border-top-color: #c9e2b3;
-}
-div.wpcf7 div.wpcf7-mail-sent-ok .alert-link {
-  color: #2b542c;
-}
-div.wpcf7 div.wpcf7-mail-sent-ng {
-  background-color: #f2dede;
-  border-color: #ebccd1;
-  color: #a94442;
-}
-div.wpcf7 div.wpcf7-mail-sent-ng hr {
-  border-top-color: #e4b9c0;
-}
-div.wpcf7 div.wpcf7-mail-sent-ng .alert-link {
-  color: #843534;
-}
-div.wpcf7 div.wpcf7-spam-blocked {
-  background-color: #f2dede;
-  border-color: #ebccd1;
-  color: #a94442;
-}
-div.wpcf7 div.wpcf7-spam-blocked hr {
-  border-top-color: #e4b9c0;
-}
-div.wpcf7 div.wpcf7-spam-blocked .alert-link {
-  color: #843534;
-}
-div.wpcf7 div.wpcf7-validation-errors {
-  background-color: #f2dede;
-  border-color: #ebccd1;
-  color: #a94442;
-}
-div.wpcf7 div.wpcf7-validation-errors hr {
-  border-top-color: #e4b9c0;
-}
-div.wpcf7 div.wpcf7-validation-errors .alert-link {
-  color: #843534;
-}
-div.wpcf7 div.wpcf7-validation-errors {
-  background-color: #f2dede;
-  border-color: #ebccd1;
-  color: #a94442;
-}
-div.wpcf7 div.wpcf7-validation-errors hr {
-  border-top-color: #e4b9c0;
-}
-div.wpcf7 div.wpcf7-validation-errors .alert-link {
-  color: #843534;
-}
-div.wpcf7 .wpcf7-form p {
-  display: none;
-}
-/*
-
-=====================
-MAP
-=====================
-
-*/
-#map {
-  height: 400px;
-}
-/*
 
 =====================
 FOOTER
