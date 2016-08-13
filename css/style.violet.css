@@ -374,6 +374,9 @@ WORKS / REFERENCES
   margin: 0 15px;
   visibility: hidden;
 }
+.reference {
+  border: 5px solid purple;
+}
 @media (max-width: 991px) {
   #references-masonry {
     margin: 0 auto;
