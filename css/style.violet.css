@@ -336,10 +336,11 @@ SERVICES
 
 .services {
   background-color: white;
+  border-radius: 25px;
 }
 
 .services img {
-  max-width: 300px;
+  max-width: 150px;
   height: auto;
 }
 /*
