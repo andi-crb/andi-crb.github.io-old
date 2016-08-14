@@ -342,6 +342,7 @@ SERVICES
 .services img {
   max-width: 150px;
   height: auto;
+  margin: 10px;
 }
 /*
 
