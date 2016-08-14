@@ -333,6 +333,15 @@ SERVICES
   font-size: 15px;
   text-align: left;
 }
+
+.services {
+  background-color: white;
+}
+
+.services img {
+  max-width: 300px;
+  height: auto;
+}
 /*
 
 =====================
